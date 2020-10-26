@@ -4,8 +4,17 @@
   "description": "Testing different image compression and retirval algorithms",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "author": "Hrishabh Pandey",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "pug": "^3.0.0"
+  },
+  "dependencies": {
+    "multer": "^1.4.2"
+  }
 }
