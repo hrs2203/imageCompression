@@ -1,0 +1,11 @@
+{
+  "name": "image_test",
+  "version": "1.0.0",
+  "description": "Testing different image compression and retirval algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hrishabh Pandey",
+  "license": "ISC"
+}
